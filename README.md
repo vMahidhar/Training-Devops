@@ -1,2 +1,2 @@
 # Training-Devops
-simple training repository 
+test simple training repository 
